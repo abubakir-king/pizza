@@ -1,0 +1,45 @@
+.select{
+    background-image: url("../images/Hero.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 900px;
+}
+
+.select_hero{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.hero_text{
+    width: 586px;
+    height: 370px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.title{
+    font-size: 96px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.textak{
+    color: #fff;
+}
+
+.buton{
+    padding: 19px 34px;
+    background-color: #03071E;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.baton{
+    padding: 19px 34px;
+    border: 1px solid #03071E;
+    border-radius: 8px;
+    color: #fff;
+    background: none;
+}
